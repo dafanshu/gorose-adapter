@@ -1,0 +1,19 @@
+# github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
+github.com/Knetic/govaluate
+# github.com/casbin/casbin/v2 v2.6.10
+github.com/casbin/casbin/v2/config
+github.com/casbin/casbin/v2/log
+github.com/casbin/casbin/v2/model
+github.com/casbin/casbin/v2/persist
+github.com/casbin/casbin/v2/rbac
+github.com/casbin/casbin/v2/util
+# github.com/dafanshu/simplejson v1.0.1
+github.com/dafanshu/simplejson
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.6.1
+github.com/stretchr/testify/assert
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
