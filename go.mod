@@ -1,4 +1,4 @@
-module github.com/dafanshu/rbac
+module github.com/dafanshu/gorose-adapter
 
 go 1.14
 
